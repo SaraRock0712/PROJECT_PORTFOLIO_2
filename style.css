@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+}
+
+h1{
+    font-size: 40px;
+    font-family: fantasy;
+    font-weight:300;
+}
+
+#apps{
+    background-color: lightcoral;
+}
+
+.line{
+    height: 6px;
+    margin: 0px;
+    width: 100px;
+    color: black;
+}
+
+#chatbot{
+    background-color:lightslategray;
+}
+
+#myCarousel{
+    background-color: red;
+}
+
+#myCarousel img{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p{
+    margin-top: 15px;
+    color: white;
+    font-size: 20;
+}
